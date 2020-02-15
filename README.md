@@ -12,7 +12,7 @@ chmod +x Scanner-basico.py
 ./Scanner-basico.py
 ```
 ## Parameters
-```pyhon
+```python
 >> print("Enter the IP to scan:", end=" ") # IP address 192.168.0.1
 >> print("Enter starting port number:", end=" ") # here we will especify the begginning
 >> print("Enter ending port number:", end=" ") # Here we will especify the ending 
