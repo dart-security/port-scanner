@@ -18,6 +18,8 @@ chmod +x Scanner-basico.py
 >> print("Enter ending port number:", end=" ") # Here we will especify the ending 
 
 ```
+[![asciicast](https://asciinema.org/a/302270.svg)](https://asciinema.org/a/302270)
+
 # El Script se seguira actualizando
 ```python
 >> Siguenos en nuestras Redes Sociales
